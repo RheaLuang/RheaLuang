@@ -6,6 +6,9 @@ Computer Science Student @ UNSW
 
 Curious about how things work — from software systems and cloud infrastructure to artificial intelligence and human behavior.
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RheaLuang&theme=tokyonight&no-frame=true&row=1" />
+</p>
 ---
 
 ## 🌱 Currently Exploring
