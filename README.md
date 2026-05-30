@@ -34,9 +34,6 @@ I prefer learning by creating real projects, getting stuck, and figuring out why
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RheaLuang\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RheaLuang\&layout=compact\&theme=tokyonight)
 
 ---
 
