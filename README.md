@@ -1,4 +1,4 @@
-# Hi, I'm MinShi 👋
+# Hi, I'm Rhea 👋
 
 Computer Science Student @ UNSW
 
