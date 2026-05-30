@@ -6,19 +6,18 @@ Computer Science Student @ UNSW
 
 Curious about how things work — from software systems and cloud infrastructure to artificial intelligence and human behavior.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RheaLuang&theme=tokyonight&no-frame=true&row=1" />
+## 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,git,github,vscode,nodejs,html,css,js,python" />
 </p>
 ---
 
 ## 🌱 Currently Exploring
 
 * 🎮 Game Development
-* 🤖 Generative AI & Large Language Models
 * ☁️ Cloud Computing
 * 🌐 Software Engineering
-* 🧠 Systems Thinking
-
 ---
 
 ## 📚 Interests
