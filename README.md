@@ -1,83 +1,47 @@
 # Hi, I'm Rhea 👋
 
+### Builder • Explorer • Lifelong Learner
+
 Computer Science Student @ UNSW
 
-I enjoy building things that start as random ideas and slowly become real projects.
-
-Currently exploring:
-
-- 🎮 Game Development
-- ☁️ Cloud Services
-- 🤖 Workflow Automation
-- 🌐 Web Development
+Curious about how things work — from software systems and cloud infrastructure to artificial intelligence and human behavior.
 
 ---
 
-## 🚀 Current Projects
+## 🌱 Currently Exploring
 
-### 🍸 Unity Bartender Game
-
-A first-person cocktail making game built with Unity.
-
----
-
-### 🤖 WeCom Automation
-
-Building internal workflow automation tools using Enterprise WeChat APIs.
-
-Working on:
-
-- User authentication
-- API integration
-- Form automation
-- Cloud deployment
+* 🎮 Game Development
+* 🤖 Generative AI & Large Language Models
+* ☁️ Cloud Computing
+* 🌐 Software Engineering
+* 🧠 Systems Thinking
 
 ---
 
-### ☁️ Huawei Cloud Practice
+## 📚 Interests
 
-Learning real-world deployment and maintenance.
-
-Topics explored:
-
-- ECS
-- OBS Backup
-- Security Hardening
-- Firewall Configuration
-- Database Backup Strategies
+I enjoy learning through building, experimenting and asking questions.
 
 ---
 
-### Currently Learning
+## 🎯 Philosophy
 
-- Unity,Blender
-- Cloud Infrastructure
-- Backend Development
+Build → Break → Understand → Improve
 
----
-
-## 📚 Things I Enjoy
-
-- Go to the zoo！！！
-- Watch anime.
-- 
----
-
-## 🎯 
-
-I don't try to learn everything.
-
-I prefer to build something,
-get stuck,
-figure out why it broke,
-and learn from the process.
+I prefer learning by creating real projects, getting stuck, and figuring out why things work the way they do.
 
 ---
-
-### Thanks for visiting 👋
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RheaLuang&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RheaLuang\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RheaLuang&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RheaLuang\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🚀 Current Journey
+
+Exploring software engineering, cloud technologies, game development and AI while studying Computer Science at UNSW.
+
+Always learning something new.
