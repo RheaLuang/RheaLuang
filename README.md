@@ -9,7 +9,7 @@ Curious about how things work — from software systems and cloud infrastructure
 ## 🛠️ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,git,github,vscode,nodejs,html,css,js,python" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,git,github,vscode,nodejs,html,css,js,Java" />
 </p>
 ---
 
